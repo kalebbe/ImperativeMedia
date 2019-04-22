@@ -11,6 +11,12 @@ h3{
     font-family: "Times New Roman", times, serif;
 }
 
+.hugeFont{
+    font-family: "Times New Roman", times, serif;
+    font-size: 64px !important;
+    font-weight: bold !important;
+}
+
 a{
     font-family: "Times New Roman", Times, serif;
     font-weight: normal !important;
